@@ -21,10 +21,3 @@ console.log(x,y);
 y = 7;
 console.log(x,y);
 
-let num1 = [11,22,33];
-let num2 = num1;
-console.log(num1, num2);
-
-
-num2[2] = 44,
-console.log(num1, num2);
