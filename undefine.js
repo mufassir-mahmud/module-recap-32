@@ -25,3 +25,13 @@ function noNegative(a,b){
 }
 const total = noNegative(-5,4);
 console.log(total);
+
+// 5.
+const person = {id:1, name:'Mufassir', age: 21};
+console.log(person.salary);
+// 6.
+
+const sixth = [2,3,4,5];
+delete sixth[1]
+console.log(sixth[4]);
+console.log(sixth);
